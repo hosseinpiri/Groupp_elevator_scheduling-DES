@@ -1,0 +1,11 @@
+,Hour,,,,,,,,,,,
+Elevator,1,2,3,4,5,6,7,8,9,10,11,12
+0,0,0,0,0,0,0,0,3,3,3,3,3
+1,0,0,3,3,3,3,3,5,5,5,5,5
+2,0,0,3,3,5,5,5,7,7,7,7,7
+3,0,0,5,5,7,7,7,8,8,8,8,8
+4,0,0,5,5,7,7,7,8,8,8,8,8
+5,0,0,5,5,7,7,7,8,8,8,8,8
+,,,,,,,,,,,,
+,indicates which floor each elevator should idle at by hour of day.  This assumes floor 0 is the Lobby.,,,,,,,,,,,
+,this gives flexibility on idling policies by hour of day,,,,,,,,,,,
